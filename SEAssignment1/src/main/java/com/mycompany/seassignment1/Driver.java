@@ -35,6 +35,5 @@ public class Driver {
         courses.add(new Course("Film Studies", new DateTime(2018, 9, 10, 0, 0), new DateTime(2019, 5, 10, 0, 0)));
         courses.add(new Course("Business Studies", new DateTime(2018, 9, 10, 0, 0), new DateTime(2019, 5, 10, 0, 0)));
         courses.add(new Course("General Science", new DateTime(2018, 9, 10, 0, 0), new DateTime(2019, 5, 10, 0, 0)));
-                
     }
 }
