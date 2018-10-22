@@ -12,7 +12,7 @@
 	</repository>
     </repositories>
     <dependencies>
-	<dependency>
+        <dependency>
 	    <groupId>com.github.EoghanR</groupId>
 	    <artifactId>part-a</artifactId>
 	    <version>-SNAPSHOT</version>
